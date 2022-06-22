@@ -14,10 +14,5 @@ public class Main {
         Map<String, String> s = new Parser().parse(inputStream);
 
         System.out.println(s);
-
     }
-
-
-
-
 }
